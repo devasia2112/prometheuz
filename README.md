@@ -25,12 +25,12 @@ Yes and no. It's not comparable with bitcoin, litecoin, monero or any other cryp
 
 ⋅⋅*Logo:
 ```
-- ::::::::::. :::::::..       ...     .        :  .,:::::::::::::::::: ::   .: .,::::::  ...    ::: .::::::.
--  `;;;```.;;;;;;;``;;;;   .;;;;;;;.  ;;,.    ;;; ;;;;'''';;;;;;;;'''',;;   ;;,;;;;''''  ;;     ;;;;;;`    `
--   `]]nnn]]'  [[[,/[[['  ,[[     \[[,[[[[, ,[[[[, [[cccc      [[    ,[[[,,,[[[ [[cccc  [['     [[['[==/[[[[,
--    $$$""     $$$$$$c    $$$,     $$$$$$$$$$$"$$$ $$""""      $$    "$$$"""$$$ $$""""  $$      $$$  '''    $
--    888o      888b "88bo,"888,_ _,88P888 Y88" 888o888oo,__    88,    888   "88o888oo,__88    .d888 88b    dP
--    YMMMb     MMMM   "W"   "YMMMMMP" MMM  M'  "MMM""""YUMMM   MMM    MMM    YMM""""YUMMM"YmmMMMM""  "YMmMY"
--    
--    Welcome to The first decentralized psychedelic network blockchain available in the wild.
+::::::::::. :::::::..       ...     .        :  .,:::::::::::::::::: ::   .: .,::::::  ...    ::: .::::::.
+ `;;;```.;;;;;;;``;;;;   .;;;;;;;.  ;;,.    ;;; ;;;;'''';;;;;;;;'''',;;   ;;,;;;;''''  ;;     ;;;;;;`    `
+  `]]nnn]]'  [[[,/[[['  ,[[     \[[,[[[[, ,[[[[, [[cccc      [[    ,[[[,,,[[[ [[cccc  [['     [[['[==/[[[[,
+   $$$""     $$$$$$c    $$$,     $$$$$$$$$$$"$$$ $$""""      $$    "$$$"""$$$ $$""""  $$      $$$  '''    $
+   888o      888b "88bo,"888,_ _,88P888 Y88" 888o888oo,__    88,    888   "88o888oo,__88    .d888 88b    dP
+   YMMMb     MMMM   "W"   "YMMMMMP" MMM  M'  "MMM""""YUMMM   MMM    MMM    YMM""""YUMMM"YmmMMMM""  "YMmMY"
+   
+   Welcome to The first decentralized psychedelic network blockchain available in the wild.
 ```
