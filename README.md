@@ -12,18 +12,12 @@ Yes and no. It's not comparable with bitcoin, litecoin, monero or any other cryp
 
 ### Our Identity
 - Name: prometheus
-
 - Symbol: PROM
-
 - PeerPort: 2323
-
 - Testnet PeerPort: 6666
-
 - API Port: 9999
-
 - Website: http://prometheus.gq/coin/ or PROM Coin Refer to: https://github.com/deepcell/prometheus
-
-⋅⋅*Logo:
+- Logo:
 ```
 :::::::::. :::::::..       ...     .        :  .,:::::::::::::::::: ::   .: .,::::::  ...    ::: .::::::.
 `;;;```.;;;;;;;``;;;;   .;;;;;;;.  ;;,.    ;;; ;;;;'''';;;;;;;;'''',;;   ;;,;;;;''''  ;;     ;;;;;;`    `
