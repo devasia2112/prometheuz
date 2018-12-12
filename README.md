@@ -11,17 +11,17 @@ A ponzi scheme, we don't want your money. period. We at prometheus just need you
 Yes and no. It's not comparable with bitcoin, litecoin, monero or any other crypto, prometheus coin is not supposed to be used as a store of value, but for more users adopt more value will be agregated.
 
 ### Our Identity
-⋅⋅*Name: prometheus
+- Name: prometheus
 
-⋅⋅*Symbol: PROM
+- Symbol: PROM
 
-⋅⋅*PeerPort: 2323
+- PeerPort: 2323
 
-⋅⋅*Testnet PeerPort: 6666
+- Testnet PeerPort: 6666
 
-⋅⋅*API Port: 9999
+- API Port: 9999
 
-⋅⋅*Website: http://prometheus.gq/coin/ or for prometheus coin refer to: https://github.com/deepcell/prometheus
+- Website: http://prometheus.gq/coin/ or PROM Coin Refer to: https://github.com/deepcell/prometheus
 
 ⋅⋅*Logo:
 ```
