@@ -21,7 +21,7 @@ Yes and no. It's not comparable with bitcoin, litecoin, monero or any other cryp
 
 ⋅⋅*API Port: 9999
 
-⋅⋅*Website: http://prometheus.gq/coin/
+⋅⋅*Website: http://prometheus.gq/coin/ or for prometheus coin refer to: https://github.com/deepcell/prometheus
 
 ⋅⋅*Logo:
 ```
