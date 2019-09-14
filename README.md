@@ -15,12 +15,12 @@ A ponzi scheme, we don't want your money. period.
 
 
 ### Features:
-. Untraceable payments
-. Unlinkable transactions
-. Double-spending proof
-. Blockchain analysis resistance
-. Egalitarian proof-of-work
-. Adaptive parameters
+- Untraceable payments
+- Unlinkable transactions
+- Double-spending proof
+- Blockchain analysis resistance
+- Egalitarian proof-of-work
+- Adaptive parameters
 
 
 ## Technology
