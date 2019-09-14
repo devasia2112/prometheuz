@@ -54,9 +54,10 @@ Yes, but do not compare with Bitcoin, Litecoin, Monero or any other cryptocoin, 
 ### Our Identity
 - Name: Prometheuz
 - Symbol: PROZ
-- PeerPort: 18236
-- Testnet PeerPort: 18236
-- API Port: 9999
+- P2PPort: 13375
+- RPCPort: 13376
+- Testnet P2PPort: 13375
+- CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 0x3c1488
 - Website: http://prometheuz.bit/coin/ or http://prometheus.gq/coin/ or https://github.com/deepcell/prometheuz (PROZ Coin)
 - Logo:
 ```
